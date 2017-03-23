@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+#container{
+    width: 1500px;
+    margin: 0 auto;
+}
+
+#slide {
+    position: relative;
+}
+
+#slide ul li {
+    position: absolute;
+    top: 100px;
+    left: 0;
+}
